@@ -1,0 +1,108 @@
+
+        Yapay Zeka ve Gelecek Teknolojileri Üzerine Detaylı Bir İnceleme
+        
+        Giriş: Yapay Zeka Nedir?
+        Yapay zeka (Artificial Intelligence - AI), makinelerin insan benzeri düşünme, öğrenme 
+        ve problem çözme yeteneklerini simüle etmeyi amaçlayan bir bilgisayar bilimi dalıdır. 
+        Bu teknoloji, 1950'lerden bu yana gelişmekte olan bir alan olmakla birlikte, 
+        özellikle son 20 yılda muazzam bir ivme kazanmıştır.
+        
+        Yapay Zeka Alt Dalları ve Teknolojiler:
+        
+        1. Machine Learning (Makine Öğrenmesi):
+        - Supervised Learning (Denetimli Öğrenme): Etiketli verilerle eğitim
+        - Unsupervised Learning (Denetimsiz Öğrenme): Etiketlenmemiş veri analizi  
+        - Reinforcement Learning (Pekiştirmeli Öğrenme): Deneme-yanılma yöntemi
+        
+        2. Deep Learning (Derin Öğrenme):
+        - Neural Networks (Sinir Ağları): İnsan beynini taklit eden modeller
+        - Convolutional Neural Networks (CNN): Görüntü işleme için
+        - Recurrent Neural Networks (RNN): Dil işleme için
+        - Transformer Modelleri: GPT, BERT gibi büyük dil modelleri
+        
+        3. Natural Language Processing (Doğal Dil İşleme):
+        - Metin analizi ve anlama
+        - Çeviri sistemleri
+        - Konuşma tanıma ve sentezi
+        
+        Günümüzdeki Yapay Zeka Uygulamaları:
+        
+        Sağlık Sektörü:
+        - Tıbbi görüntü analizi (MR, BT, röntgen)
+        - Ilaç keşfi ve geliştirilmesi  
+        - Kişiselleştirilmiş tedavi planları
+        - Teşhis destek sistemleri
+        
+        Finans Sektörü:
+        - Algoritmik ticaret
+        - Kredi risk değerlendirmesi
+        - Dolandırıcılık tespiti
+        - Robo-advisor yatırım danışmanlığı
+        
+        Otomotiv Sektörü:
+        - Otonom araçlar (Tesla, Waymo, Mercedes)
+        - Sürücü destek sistemleri
+        - Trafik optimizasyonu
+        - Akıllı park sistemleri
+        
+        Eğitim Sektörü:
+        - Kişiselleştirilmiş öğrenme platformları
+        - Otomatik sınav değerlendirmesi
+        - Akıllı tutoring sistemleri
+        - Dil öğrenme uygulamaları
+        
+        Günümüzün Popüler AI Sistemleri:
+        
+        Büyük Dil Modelleri:
+        - ChatGPT (OpenAI): GPT-3.5 ve GPT-4 teknolojisi
+        - Google Bard: LaMDA ve PaLM teknolojisi
+        - Claude (Anthropic): Constitutional AI yaklaşımı
+        - Microsoft Copilot: GPT-4 tabanlı asistan
+        
+        Görüntü Oluşturma AI'ları:
+        - DALL-E 2 ve DALL-E 3 (OpenAI)
+        - Midjourney: Sanatsal görüntü üretimi
+        - Stable Diffusion: Açık kaynak alternatifi
+        - Adobe Firefly: Yaratıcı tasarım odaklı
+        
+        Gelecekteki Yapay Zeka Trendleri:
+        
+        Artificial General Intelligence (AGI):
+        AGI, insan zekasının tüm alanlarında eşit veya daha iyi performans gösteren 
+        yapay zeka sistemidir. Uzmanlar AGI'nin 2030-2050 yılları arasında 
+        gerçekleşebileceğini öngörmektedir.
+        
+        Potansiyel Fırsatlar:
+        - Bilimsel araştırmada devrim (kanser tedavisi, iklim değişikliği çözümleri)
+        - Eğitimde kişiselleştirme ve erişilebilirlik artışı
+        - Sağlık hizmetlerinde maliyet düşüşü ve kalite artışı
+        - Yaratıcı sektörlerde yeni imkanlar
+        - Otomasyonla verimlilikte muazzam artış
+        
+        Potansiyel Riskler ve Endişeler:
+        - İş kayıpları ve işsizlik artışı
+        - Gizlilik ve gözetim sorunları
+        - Yapay zeka silahları ve güvenlik tehditleri
+        - Algoritmik önyargı ve adalet sorunları
+        - AI sistemlerinin kontrolden çıkma riski
+        - Ekonomik eşitsizliklerin artması
+        
+        Etik ve Düzenleme:
+        - AI Ethics komiteleri kurulması
+        - Şeffaflık ve açıklanabilirlik gereklilikleri
+        - Veri koruma ve gizlilik düzenlemeleri
+        - Uluslararası AI güvenlik standartları
+        
+        Sonuç:
+        Yapay zeka teknolojisi, insanlık tarihinin en önemli teknolojik gelişmelerinden 
+        biridir. Doğru yönetildiği takdirde, çok büyük faydalar sağlayabilir; ancak 
+        dikkatli bir yaklaşım ve uygun düzenlemeler olmadan ciddi riskler de taşır. 
+        Gelecekte AI'nın toplumsal faydayı maksimize edecek şekilde geliştirilmesi 
+        için tüm paydaşların işbirliği yapması kritik önem taşımaktadır.
+        
+        İstatistikler ve Veriler:
+        - 2023 yılında küresel AI pazarı: 136 milyar dolar
+        - 2030 yılında beklenen pazar büyüklüğü: 1.8 trilyon dolar
+        - Fortune 500 şirketlerinin %80'i AI kullanıyor
+        - 2025'e kadar 97 milyon yeni AI işi yaratılması bekleniyor
+        
